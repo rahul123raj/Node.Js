@@ -1,0 +1,4 @@
+this is frontend part :
+It is used the make the layout of the webpage
+It is used to apply the design
+it is used to make the webpage dynamic with the help of javacript

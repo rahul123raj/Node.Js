@@ -1,0 +1,1 @@
+it is used to make the webpage dynamic with the help of javacript
